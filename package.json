@@ -30,6 +30,7 @@
   "dependencies": {
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^2.7.0",
+    "express": "^5.1.0",
     "nodemon": "^3.1.10",
     "prettier": "^3.5.3"
   }
