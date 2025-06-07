@@ -1,0 +1,36 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./scr/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvitlanaLucky/node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SvitlanaLucky/node.js/issues"
+  },
+  "homepage": "https://github.com/SvitlanaLucky/node.js#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.28.0",
+    "@faker-js/faker": "^9.8.0",
+    "eslint": "^9.28.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.2.0"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^2.7.0",
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  }
+}
